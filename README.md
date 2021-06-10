@@ -1,8 +1,8 @@
 I Maded bucketware source code to private beacuse i wont that people renames it and makes it stealer
+You can still download it from bucketware.ga or from this repo
 
 [![Discord](https://img.shields.io/discord/769207196608102430?label=discord)](https://discord.gg/uRCtRbQB9F)
 [![ENet version](https://img.shields.io/badge/enet-1.3.17-green)](https://github.com/moien007/enet)
-![Language](https://img.shields.io/github/languages/top/fyrax-exe/bucketware)
 ### tutorial
 [![setup tutorial](https://cdn.discordapp.com/attachments/851010233241305109/851517302662496286/bucketwarethun.jpg)](https://www.youtube.com/watch?v=g3gdn78xWt8 "Bucketware install")
 ## Version 1.3.1
