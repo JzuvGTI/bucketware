@@ -5,11 +5,11 @@ You can still download it from bucketware.ga or from this repo
 [![ENet version](https://img.shields.io/badge/enet-1.3.17-green)](https://github.com/moien007/enet)
 ### tutorial
 [![setup tutorial](https://cdn.discordapp.com/attachments/851010233241305109/851517302662496286/bucketwarethun.jpg)](https://www.youtube.com/watch?v=g3gdn78xWt8 "Bucketware install")
-## Version 1.3.1
-What new in 1.3.1
-Auto collect for autofarm
-More hacks
-Fixed bugs
+## Version 1.5
+What new in 1.5
+Added Casino hack/typer
+Added Drop all items from inventory
+Added leave if mod joins
 
 This project is still indev
 if you have any questions about this project you can ask them at discord my discord is:Fyrax#7192
@@ -22,7 +22,7 @@ Design inspired from Nightfarm
 - [x] Add auto update for software
 - [x] Optimize More CPU Usage
 - [x] Add more hacks (Thanks for Cydent)
-- [ ] Clean code 
+- [x] Clean code 
 - [ ] Add Safe auto collect
 - [ ] Fix Random Disconnects/lags
 - [ ] Fix bugs
